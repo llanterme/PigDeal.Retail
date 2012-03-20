@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\SandBox.MobileDev\Services\PigDeal" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Domain.dll" publishTime="03/19/2012 11:37:17" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Service.pdb" publishTime="03/19/2012 11:37:17" />
+    <file relUrl="bin/log4net.dll" publishTime="06/01/2011 05:37:54" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Domain.pdb" publishTime="03/19/2012 11:37:17" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Infrastructure.pdb" publishTime="03/19/2012 11:37:16" />
+    <file relUrl="Web.config" publishTime="03/19/2012 11:37:25" />
+    <file relUrl="bin/Mweb.Foundation.Practices.pdb" publishTime="06/01/2011 05:37:54" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Infrastructure.dll" publishTime="03/19/2012 11:37:16" />
+    <file relUrl="PigDealRestService.svc" publishTime="02/29/2012 13:38:12" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Service.dll" publishTime="03/19/2012 11:37:17" />
+    <file relUrl="bin/Mweb.Foundation.Practices.dll" publishTime="06/01/2011 05:37:54" />
+  </publishProfile>
+</publishData>

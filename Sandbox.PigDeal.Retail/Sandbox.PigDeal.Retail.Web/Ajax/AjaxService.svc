@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Sandbox.PigDeal.Retail.Web.Ajax.AjaxService" CodeBehind="AjaxService.svc.cs" %>

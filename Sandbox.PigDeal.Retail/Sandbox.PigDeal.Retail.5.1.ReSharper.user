@@ -1,0 +1,671 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B5EFFB67-D919-4132-94AE-72335D961E74/f:IPigDealRestService.cs" caret="1558" fromTop="38" />
+      <File id="76C31769-CDDC-4952-9CFF-84520B86E792/d:Context/f:BaseDataContext.cs" caret="691" fromTop="23" />
+      <File id="76C31769-CDDC-4952-9CFF-84520B86E792/d:Repositories/f:PigDealRepository.cs" caret="1503" fromTop="26" />
+      <File id="76C31769-CDDC-4952-9CFF-84520B86E792/f:app.config" caret="0" fromTop="0" />
+      <File id="B5EFFB67-D919-4132-94AE-72335D961E74/f:PigDealRestService.svc.cs" caret="1762" fromTop="40" />
+      <File id="B5EFFB67-D919-4132-94AE-72335D961E74/f:Web.config" caret="1821" fromTop="33" />
+      <File id="73C0A4B2-F9CC-40DF-8E1D-0DBAEA57E73E/f:Program.cs" caret="0" fromTop="0" />
+      <File id="BB40036A-3F32-4727-8EC8-AF7B8841A61F/d:Logic/f:MailManager.cs" caret="821" fromTop="6" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:ProcessPayment.aspx.cs" caret="708" fromTop="9" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:CancelOrder.aspx" caret="981" fromTop="18" />
+      <File id="BB40036A-3F32-4727-8EC8-AF7B8841A61F/d:Entities/f:DealValidationEntity.cs" caret="182" fromTop="7" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:ProcessPayment.aspx" caret="0" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:ConfirmPayment.aspx" caret="401" fromTop="5" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Validate.aspx" caret="1110" fromTop="28" />
+      <File id="76C31769-CDDC-4952-9CFF-84520B86E792/d:Catalog/f:LinqCatalog.designer.cs" caret="25594" fromTop="26" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Validate.aspx.cs" caret="437" fromTop="14" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:ActiveDeals.aspx.cs" caret="0" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:DealHistory.aspx.cs" caret="0" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Invoice.aspx.cs" caret="4054" fromTop="40" />
+      <File id="BB40036A-3F32-4727-8EC8-AF7B8841A61F/d:Logic/f:PigDealManager.cs" caret="26603" fromTop="33" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Login.aspx.cs" caret="3199" fromTop="32" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:NewDeal.aspx.cs" caret="0" fromTop="0" />
+      <File id="478832E8-4F73-499A-9779-5299E8726EA2/f:app.config" caret="478" fromTop="7" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx.cs" caret="0" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/d:Overrides/f:CustomEditor.cs" caret="777" fromTop="22" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx.designer.cs" caret="1387" fromTop="24" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:NewDeal.aspx" caret="258" fromTop="3" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:PigDeal.Master" caret="1165" fromTop="28" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="2689" fromTop="15" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="698" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/d:Overrides/f:CustomEditor.cs" caret="774" fromTop="21" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="175" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="175" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="11013" fromTop="19" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="11013" fromTop="34" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="607" fromTop="0" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="11013" fromTop="40" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="825" fromTop="20" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="825" fromTop="35" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="1131" fromTop="41" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:PigDeal.Master" caret="123" fromTop="2" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:PigDeal.Master" caret="530" fromTop="11" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:PigDeal.Master" caret="225" fromTop="3" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="21750" fromTop="2" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="827" fromTop="20" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="838" fromTop="46" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="20393" fromTop="3" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="838" fromTop="33" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="4340" fromTop="12" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="4340" fromTop="33" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx.designer.cs" caret="1387" fromTop="24" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="4340" fromTop="27" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="4340" fromTop="31" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="856" fromTop="21" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:PigDeal.Master" caret="1803" fromTop="25" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:PigDeal.Master" caret="1145" fromTop="25" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="226" fromTop="7" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:Web.config" caret="2689" fromTop="15" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="997" fromTop="16" />
+      <File id="A12D6D52-C7B2-46F0-AA45-D2820339D682/f:MyAccount.aspx" caret="185" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Entities" priority="0" />
+      <Item value="ContactNumber" priority="1" />
+      <Item value="newOutlet" priority="4" />
+      <Item value="public" priority="40" />
+      <Item value="int" priority="23" />
+      <Item value="ContactPerson" priority="1" />
+      <Item value="new" priority="31" />
+      <Item value="LoginEmail" priority="1" />
+      <Item value="OutletName" priority="1" />
+      <Item value="Password" priority="1" />
+      <Item value="bool" priority="7" />
+      <Item value="string" priority="36" />
+      <Item value="List" priority="15" />
+      <Item value="Outlet`0" priority="0" />
+      <Item value="return" priority="44" />
+      <Item value="DataContext" priority="11" />
+      <Item value="_profileManager" priority="0" />
+      <Item value="_outletManager" priority="10" />
+      <Item value="entity" priority="0" />
+      <Item value="try" priority="5" />
+      <Item value="mbox" priority="0" />
+      <Item value="txbTelephone" priority="3" />
+      <Item value="txbOutletName" priority="2" />
+      <Item value="validationMessage" priority="1" />
+      <Item value="true" priority="11" />
+      <Item value="false" priority="13" />
+      <Item value="OutletEntity" priority="0" />
+      <Item value="txbContactPerson" priority="1" />
+      <Item value="Description" priority="3" />
+      <Item value="txbDescription" priority="1" />
+      <Item value="txbLoginEmail" priority="0" />
+      <Item value="txbPassword1" priority="0" />
+      <Item value="pnlBranches" priority="0" />
+      <Item value="void" priority="8" />
+      <Item value="Branch`0" priority="3" />
+      <Item value="branch" priority="2" />
+      <Item value="BranchEntity`0" priority="3" />
+      <Item value="_pigdealRepo" priority="14" />
+      <Item value="Branch" priority="0" />
+      <Item value="Address1" priority="2" />
+      <Item value="newBranch" priority="13" />
+      <Item value="Address2" priority="2" />
+      <Item value="City" priority="2" />
+      <Item value="Email" priority="2" />
+      <Item value="Latitude" priority="0" />
+      <Item value="Longitude" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="OperatingHours" priority="2" />
+      <Item value="OutletId" priority="3" />
+      <Item value="var" priority="54" />
+      <Item value="address2" priority="1" />
+      <Item value="address1" priority="0" />
+      <Item value="city" priority="2" />
+      <Item value="postCode" priority="0" />
+      <Item value="Console`0" priority="45" />
+      <Item value="completeAddress" priority="2" />
+      <Item value="_manager" priority="2" />
+      <Item value="GetLatitudeAndLongitudeByAddress`0" priority="0" />
+      <Item value="txbBranchName" priority="1" />
+      <Item value="txbAddress1" priority="1" />
+      <Item value="txbAddress2" priority="1" />
+      <Item value="txbPostCode" priority="1" />
+      <Item value="txbBranchLat" priority="1" />
+      <Item value="coOrds" priority="1" />
+      <Item value="BranchEntity" priority="0" />
+      <Item value="txbCity" priority="0" />
+      <Item value="txbBranchEmail" priority="0" />
+      <Item value="Lat" priority="1" />
+      <Item value="Long" priority="1" />
+      <Item value="txbBranchLong" priority="0" />
+      <Item value="txbOperatingHours" priority="0" />
+      <Item value="if" priority="26" />
+      <Item value="else" priority="21" />
+      <Item value="PostCode" priority="2" />
+      <Item value="Telephone" priority="2" />
+      <Item value="txbBranchTelephone" priority="0" />
+      <Item value="txbBranchDescription" priority="0" />
+      <Item value="ShowAlertMessage`0" priority="0" />
+      <Item value="ddlBranches" priority="1" />
+      <Item value="from" priority="10" />
+      <Item value="a" priority="22" />
+      <Item value="outletId" priority="6" />
+      <Item value="allBranches" priority="13" />
+      <Item value="ddlExsistingBranches" priority="6" />
+      <Item value="branches" priority="1" />
+      <Item value="protected" priority="3" />
+      <Item value="branchDetails" priority="9" />
+      <Item value="select" priority="12" />
+      <Item value="foreach" priority="6" />
+      <Item value="in" priority="5" />
+      <Item value="ListItem" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="value" priority="12" />
+      <Item value="Text" priority="0" />
+      <Item value="BranchId" priority="2" />
+      <Item value="System" priority="3" />
+      <Item value="Threading" priority="0" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="null" priority="8" />
+      <Item value="outlet" priority="0" />
+      <Item value="AuthenticationSchemeSelector`0" priority="1" />
+      <Item value="allOutlets" priority="3" />
+      <Item value="Deal`0" priority="3" />
+      <Item value="deal" priority="17" />
+      <Item value="ParallelEnumerable`0" priority="0" />
+      <Item value="Deal" priority="0" />
+      <Item value="newDeal" priority="17" />
+      <Item value="Claimed" priority="2" />
+      <Item value="Duration" priority="1" />
+      <Item value="Scoop" priority="3" />
+      <Item value="StartDate" priority="4" />
+      <Item value="DateTime`0" priority="9" />
+      <Item value="StartTime" priority="1" />
+      <Item value="Status" priority="1" />
+      <Item value="DealEntity" priority="2" />
+      <Item value="txbDealDetails" priority="1" />
+      <Item value="ddlDealMin" priority="0" />
+      <Item value="Discount" priority="4" />
+      <Item value="txbDiscount" priority="0" />
+      <Item value="Title" priority="5" />
+      <Item value="txbDealTitle" priority="0" />
+      <Item value="today" priority="2" />
+      <Item value="Convert`0" priority="4" />
+      <Item value="TimeSpan`0" priority="1" />
+      <Item value="dealStartDate" priority="3" />
+      <Item value="isPast" priority="3" />
+      <Item value="static" priority="2" />
+      <Item value="startDate" priority="0" />
+      <Item value="IsPastDate`0" priority="2" />
+      <Item value="time" priority="4" />
+      <Item value="hours" priority="2" />
+      <Item value="min" priority="0" />
+      <Item value="serverTime" priority="2" />
+      <Item value="timeDiff" priority="1" />
+      <Item value="duration" priority="4" />
+      <Item value="IsValidTime`0" priority="1" />
+      <Item value="DealEntity`0" priority="8" />
+      <Item value="allDeals" priority="1" />
+      <Item value="activeDealsQuery" priority="2" />
+      <Item value="activeDeals" priority="1" />
+      <Item value="Created" priority="2" />
+      <Item value="Expires" priority="2" />
+      <Item value="dealStartTime" priority="0" />
+      <Item value="startTime" priority="2" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="DealId" priority="1" />
+      <Item value="lvActiveDeals" priority="1" />
+      <Item value="_pigdealManager" priority="2" />
+      <Item value="isTimePast" priority="1" />
+      <Item value="addtionalDay" priority="2" />
+      <Item value="dealStarts" priority="2" />
+      <Item value="dealExpires" priority="2" />
+      <Item value="IsDealStartDateInPast`0" priority="0" />
+      <Item value="IsValidDeal`0" priority="1" />
+      <Item value="UInt16`0" priority="0" />
+      <Item value="UpdateStatus`0" priority="1" />
+      <Item value="where" priority="3" />
+      <Item value="deals" priority="3" />
+      <Item value="dealId" priority="15" />
+      <Item value="dealQuery" priority="1" />
+      <Item value="status" priority="0" />
+      <Item value="_AppDomain`0" priority="0" />
+      <Item value="alldeals" priority="3" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="expiredDealsList" priority="1" />
+      <Item value="HandHeldDealsEntity`0" priority="2" />
+      <Item value="BranchLat" priority="0" />
+      <Item value="BranchLon" priority="0" />
+      <Item value="BranchName" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="CalulateDistance`0" priority="0" />
+      <Item value="phonelat" priority="2" />
+      <Item value="phonelon" priority="2" />
+      <Item value="distance" priority="3" />
+      <Item value="HandHeldDealsEntity" priority="2" />
+      <Item value="double" priority="1" />
+      <Item value="DealKm" priority="0" />
+      <Item value="handHelpDealsList" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="PigDealManager" priority="0" />
+      <Item value="_pigDealManager" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="Configuration" priority="1" />
+      <Item value="ConfigurationSettings`0" priority="2" />
+      <Item value="Assemblies" priority="0" />
+      <Item value="UrlAuthorizationModule`0" priority="0" />
+      <Item value="HttpServerUtility`0" priority="0" />
+      <Item value="HttpUtility`0" priority="0" />
+      <Item value="identifier" priority="1" />
+      <Item value="allCoupons" priority="3" />
+      <Item value="hasClaimedQuery" priority="3" />
+      <Item value="takeUpDealResult" priority="9" />
+      <Item value="Void`0" priority="0" />
+      <Item value="Coupon`0" priority="0" />
+      <Item value="coupon" priority="2" />
+      <Item value="Coupon" priority="0" />
+      <Item value="DeviceIdentifier" priority="0" />
+      <Item value="UserReference" priority="1" />
+      <Item value="userRef" priority="0" />
+      <Item value="TakeUpDealEntity`0" priority="0" />
+      <Item value="devinceIdentifier" priority="0" />
+      <Item value="UpdateClaimed`0" priority="0" />
+      <Item value="dealDetails" priority="1" />
+      <Item value="reference" priority="0" />
+      <Item value="couponQuery" priority="4" />
+      <Item value="TypedReference`0" priority="0" />
+      <Item value="txbValidateDeal" priority="0" />
+      <Item value="imgResult" priority="0" />
+      <Item value="CouponEntity`0" priority="2" />
+      <Item value="Coupons" priority="0" />
+      <Item value="List&lt;CouponEntity&gt;" priority="0" />
+      <Item value="CouponEntity" priority="0" />
+      <Item value="CouponId" priority="1" />
+      <Item value="alluserDeals" priority="3" />
+      <Item value="ddlCoupons" priority="1" />
+      <Item value="dealInformation" priority="3" />
+      <Item value="lblTitle" priority="0" />
+      <Item value="Response" priority="0" />
+      <Item value="AbortTransaction" priority="0" />
+      <Item value="GetOutletBranches`0" priority="0" />
+      <Item value="outetId" priority="0" />
+      <Item value="lbloutletName" priority="0" />
+      <Item value="pnlNewDeal" priority="0" />
+      <Item value="feedUrl" priority="0" />
+      <Item value="returnDownloaded" priority="0" />
+      <Item value="dealTitle" priority="0" />
+      <Item value="ElementName" priority="0" />
+      <Item value="outletEmail" priority="4" />
+      <Item value="txbOutletLoginEmail" priority="0" />
+      <Item value="outletName" priority="0" />
+      <Item value="orderId" priority="0" />
+      <Item value="Payment" priority="0" />
+      <Item value="ProcessPayment`0" priority="0" />
+      <Item value="site" priority="0" />
+      <Item value="Server" priority="0" />
+      <Item value="ConfigurationElementCollectionType`0" priority="0" />
+      <Item value="Message" priority="2" />
+      <Item value="ConfigurationManager`0" priority="1" />
+      <Item value="Int64`0" priority="0" />
+      <Item value="lblNoDeal" priority="0" />
+      <Item value="password" priority="0" />
+      <Item value="List&lt;HandHeldDealsEntity&gt;" priority="0" />
+      <Item value="ex" priority="1" />
+      <Item value="validationResult" priority="2" />
+      <Item value="DealValidationEntity" priority="0" />
+      <Item value="IsCouponValid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Entities.OutletEntity">
+      <Item value="ContactNumber" priority="0" />
+      <Item value="ContactPerson" priority="0" />
+      <Item value="LoginEmail" priority="0" />
+      <Item value="OutletName" priority="0" />
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Catalog.LinqCatalogDataContext">
+      <Item value="Outlets" priority="0" />
+      <Item value="Branches" priority="1" />
+      <Item value="SubmitChanges`0" priority="3" />
+      <Item value="Deals" priority="2" />
+      <Item value="Coupons" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Linq.Table`1">
+      <Item value="ToList`1" priority="3" />
+      <Item value="InsertOnSubmit`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Interfaces.IOutletRepository">
+      <Item value="GetOutlet`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Catalog.Outlet">
+      <Item value="OutletId" priority="1" />
+      <Item value="LoginEmail" priority="3" />
+      <Item value="OutletName" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Logic.OutletManager">
+      <Item value="CheckDuplicate`0" priority="1" />
+      <Item value="CreateOutlet`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="38" />
+      <Item value="Attributes" priority="0" />
+      <Item value="CssClass" priority="0" />
+      <Item value="Focus`0" priority="1" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="7" />
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.AttributeCollection">
+      <Item value="Add`0" priority="0" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="8" />
+      <Item value="Format`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Panel">
+      <Item value="Visible" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Catalog.Branch">
+      <Item value="Outlet" priority="0" />
+      <Item value="OutletId" priority="0" />
+      <Item value="Address1" priority="0" />
+      <Item value="Address2" priority="0" />
+      <Item value="City" priority="1" />
+      <Item value="Description" priority="0" />
+      <Item value="Email" priority="1" />
+      <Item value="Latitude" priority="2" />
+      <Item value="Longitude" priority="2" />
+      <Item value="Name" priority="5" />
+      <Item value="OperatingHours" priority="0" />
+      <Item value="BranchId" priority="1" />
+      <Item value="PostCode" priority="0" />
+      <Item value="Telephone" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Interfaces.IPigDealRepository">
+      <Item value="CreateBranch`0" priority="0" />
+      <Item value="GetBranches`0" priority="1" />
+      <Item value="GetOutlet`0" priority="0" />
+      <Item value="CreateDeal`0" priority="0" />
+      <Item value="GetActiveDeals`0" priority="1" />
+      <Item value="UpdateStatus`0" priority="1" />
+      <Item value="GetDeals`0" priority="2" />
+      <Item value="GetAllCoupons`0" priority="2" />
+      <Item value="ClaimCoupon`0" priority="0" />
+      <Item value="UpdatePaymentStatus`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Entities.BranchEntity">
+      <Item value="Address1" priority="0" />
+      <Item value="Address2" priority="1" />
+      <Item value="City" priority="1" />
+      <Item value="Description" priority="1" />
+      <Item value="Email" priority="1" />
+      <Item value="Lat" priority="3" />
+      <Item value="Long" priority="2" />
+      <Item value="Name" priority="2" />
+      <Item value="OperatingHours" priority="1" />
+      <Item value="OutletId" priority="0" />
+      <Item value="PostCode" priority="1" />
+      <Item value="Telephone" priority="1" />
+      <Item value="BranchId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Error" priority="6" />
+      <Item value="WriteLine`0" priority="35" />
+      <Item value="ReadLine`0" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Logic.PigDealManager">
+      <Item value="GetLatitudeAndLongitudeByAddress`0" priority="0" />
+      <Item value="LookupLatLong`0" priority="0" />
+      <Item value="CreateBranch`0" priority="0" />
+      <Item value="GetOutletBranches`0" priority="0" />
+      <Item value="GetBranch`0" priority="0" />
+      <Item value="GetOutLetName`0" priority="0" />
+      <Item value="CreateDeal`0" priority="0" />
+      <Item value="GetOutletActiveDeals`0" priority="1" />
+      <Item value="GetOutletExpiredDeals`0" priority="1" />
+      <Item value="GetHandHeldLocationDeals`0" priority="1" />
+      <Item value="TakeUpDeal`0" priority="0" />
+      <Item value="ValidateCoupon`0" priority="0" />
+      <Item value="GetDealInformation`0" priority="0" />
+      <Item value="HasBranches`0" priority="0" />
+      <Item value="IsBranchRegistered`0" priority="0" />
+      <Item value="UpdatePaymentStatus`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SandBox.PigDeal.Domain.Entities.Coordinate">
+      <Item value="Latitude" priority="3" />
+      <Item value="Longitude" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Single">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlSelect">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Where`1" priority="9" />
+      <Item value="Add`0" priority="2" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Sort`0" priority="1" />
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="4" />
+      <Item value="Single`1" priority="0" />
+      <Item value="SingleOrDefault`1" priority="3" />
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="DataSource" priority="1" />
+      <Item value="DataValueField" priority="0" />
+      <Item value="DataTextField" priority="0" />
+      <Item value="DataBind`0" priority="1" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="SelectedItem" priority="5" />
+      <Item value="SelectedValue" priority="1" />
+      <Item value="AutoPostBack" priority="0" />
+      <Item value="Items" priority="0" />
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItem">
+      <Item value="Value" priority="5" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="1" />
+      <Item value="Split`0" priority="2" />
+      <Item value="Trim`0" priority="12" />
+      <Item value="ToLower`0" priority="6" />
+      <Item value="Replace`0" priority="2" />
+      <Item value="ToUpper`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="21" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Entities.DealEntity">
+      <Item value="BranchId" priority="0" />
+      <Item value="OutletId" priority="0" />
+      <Item value="Duration" priority="3" />
+      <Item value="Scoop" priority="1" />
+      <Item value="StartDate" priority="3" />
+      <Item value="StartTime" priority="5" />
+      <Item value="Discount" priority="1" />
+      <Item value="Title" priority="3" />
+      <Item value="Expires" priority="0" />
+      <Item value="Created" priority="0" />
+      <Item value="Coupons" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Parse`0" priority="1" />
+      <Item value="Today" priority="0" />
+      <Item value="Now" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDateTime`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Days" priority="3" />
+      <Item value="Hours" priority="5" />
+      <Item value="Minutes" priority="1" />
+      <Item value="TotalMinutes" priority="1" />
+      <Item value="TotalHours" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="AddHours`0" priority="8" />
+      <Item value="AddDays`0" priority="1" />
+      <Item value="ToString`0" priority="9" />
+      <Item value="Date" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Catalog.Deal">
+      <Item value="OutletId" priority="2" />
+      <Item value="Title" priority="4" />
+      <Item value="Created" priority="0" />
+      <Item value="Status" priority="4" />
+      <Item value="StartDate" priority="4" />
+      <Item value="Duration" priority="6" />
+      <Item value="Claimed" priority="2" />
+      <Item value="StartTime" priority="5" />
+      <Item value="DealId" priority="4" />
+      <Item value="Branch" priority="9" />
+      <Item value="Scoop" priority="1" />
+      <Item value="Discount" priority="1" />
+      <Item value="Coupons" priority="1" />
+      <Item value="Outlet" priority="0" />
+      <Item value="Payment" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListView">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="First`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Entities.HandHeldDealsEntity">
+      <Item value="BranchName" priority="0" />
+      <Item value="BranchLat" priority="0" />
+      <Item value="DealKm" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.Web.WebMessageBodyStyle">
+      <Item value="Wrapped" priority="0" />
+      <Item value="Bare" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationSettings">
+      <Item value="AppSettings" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpServerUtility">
+      <Item value="UrlTokenEncode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpUtility">
+      <Item value="UrlEncode`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Infrastructure.Catalog.Coupon">
+      <Item value="CouponId" priority="2" />
+      <Item value="DeviceIdentifier" priority="0" />
+      <Item value="DealId" priority="2" />
+      <Item value="UserReference" priority="3" />
+      <Item value="Deal" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Entities.TakeUpDealEntity">
+      <Item value="HasAlreadyClaimed" priority="4" />
+      <Item value="DealRefernce" priority="1" />
+      <Item value="DealReference" priority="1" />
+      <Item value="IsAtOutlet" priority="0" />
+      <Item value="Range" priority="0" />
+      <Item value="RangeText" priority="0" />
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Image">
+      <Item value="ImageUrl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ImageButton">
+      <Item value="CommandArgument" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IIdentity">
+      <Item value="Name" priority="1" />
+      <Item value="AuthenticationType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="User" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Security.Principal.IPrincipal">
+      <Item value="Identity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ServiceModel.Web.WebMessageFormat">
+      <Item value="Xml" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XDocument">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
+      <Item value="Transfer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Sandbox.PigDeal.Retail.Domain.Entities.DealValidationEntity">
+      <Item value="IsCouponValid" priority="1" />
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

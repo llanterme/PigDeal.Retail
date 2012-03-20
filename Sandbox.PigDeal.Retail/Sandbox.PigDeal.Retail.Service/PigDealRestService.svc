@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Sandbox.PigDeal.Retail.Service.PigDealRestService" CodeBehind="PigDealRestService.svc.cs" %>

@@ -1,0 +1,36 @@
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.exe.config
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.exe
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Domain.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Infrastructure.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Domain.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Infrastructure.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\Sandbox.PigDeal.Retail.Debug.exe
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\Sandbox.PigDeal.Retail.Debug.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.exe.config
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.exe
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Domain.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Infrastructure.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Domain.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Infrastructure.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\Sandbox.PigDeal.Retail.Debug.exe
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\Sandbox.PigDeal.Retail.Debug.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Mweb.Foundation.Practices.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\log4net.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Mweb.Foundation.Practices.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.exe.config
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.exe
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Debug.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\log4net.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Mweb.Foundation.Practices.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Domain.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Infrastructure.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Domain.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Mweb.Foundation.Practices.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\bin\Debug\Sandbox.PigDeal.Retail.Infrastructure.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\Sandbox.PigDeal.Retail.Debug.exe
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Debug\obj\x86\Debug\Sandbox.PigDeal.Retail.Debug.pdb

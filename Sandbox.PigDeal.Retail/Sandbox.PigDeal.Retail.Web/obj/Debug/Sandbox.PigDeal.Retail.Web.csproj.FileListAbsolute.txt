@@ -1,0 +1,43 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\AjaxControlToolkit.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Domain.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\System.Web.Ajax.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Infrastructure.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Domain.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Infrastructure.pdb
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.dll
+C:\Users\llante\Documents\Vs Solution\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Domain.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\TimePicker.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Infrastructure.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Domain.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Infrastructure.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.pdb
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Mweb.Foundation.Practices.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\log4net.dll
+C:\Users\Luke\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Mweb.Foundation.Practices.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Web.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\AjaxControlToolkit.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\log4net.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Mweb.Foundation.Practices.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Domain.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\System.Web.Ajax.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Infrastructure.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Domain.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Mweb.Foundation.Practices.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\bin\Sandbox.PigDeal.Retail.Infrastructure.pdb
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.dll
+C:\Users\llante\Documents\Visual Studio 2010\Projects\SandBox\Sandbox.PigDeal.Retail\Sandbox.PigDeal.Retail.Web\obj\Debug\Sandbox.PigDeal.Retail.Web.pdb

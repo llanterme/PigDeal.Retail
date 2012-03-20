@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 8.5" name="LinqCatalog">
+  <DataContextMoniker Name="/LinqCatalogDataContext" />
+  <nestedChildShapes>
+    <classShape Id="11784333-15f6-4770-bb6d-5517f35a950f" absoluteBounds="3.5, 1.625, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LinqCatalogDataContext/Branch" />
+      <nestedChildShapes>
+        <elementListCompartment Id="633ab5ab-bbdc-43ea-824a-6bb486cdfcb1" absoluteBounds="3.515, 2.085, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="772304ce-cb4a-4db0-bfcd-9ec79333d57c" absoluteBounds="6.25, 1.625, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/LinqCatalogDataContext/Deal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="662d63ad-57df-41ce-8909-167b30362e1c" absoluteBounds="6.265, 2.085, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="36524274-d8b7-4546-8e2f-1083259d3e5d" absoluteBounds="9, 1, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LinqCatalogDataContext/Coupon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1fe087ee-e748-43ee-b007-ff67fbf270c7" absoluteBounds="9.015, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f40306f-fcec-4395-a4ed-ea0dbb9cddea" absoluteBounds="9, 3.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LinqCatalogDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ade4060e-a8f8-4340-8cf2-bea6e0660121" absoluteBounds="9.015, 3.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19c30dae-4149-44f4-af23-cc1b9bd206ee" absoluteBounds="0.75, 2.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/LinqCatalogDataContext/Outlet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="072f7e29-18e4-4be0-b4a3-34f6a7d3f2cd" absoluteBounds="0.765, 2.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 3.27965413411458); (6.25 : 3.27965413411458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqCatalogDataContext/Branch/Branch_Deal" />
+      <nodes>
+        <classShapeMoniker Id="11784333-15f6-4770-bb6d-5517f35a950f" />
+        <classShapeMoniker Id="772304ce-cb4a-4db0-bfcd-9ec79333d57c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 2.10179768880208); (9 : 2.10179768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqCatalogDataContext/Deal/Deal_Coupon" />
+      <nodes>
+        <classShapeMoniker Id="772304ce-cb4a-4db0-bfcd-9ec79333d57c" />
+        <classShapeMoniker Id="36524274-d8b7-4546-8e2f-1083259d3e5d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.15465413411458); (9 : 4.15465413411458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqCatalogDataContext/Deal/Deal_Invoice" />
+      <nodes>
+        <classShapeMoniker Id="772304ce-cb4a-4db0-bfcd-9ec79333d57c" />
+        <classShapeMoniker Id="7f40306f-fcec-4395-a4ed-ea0dbb9cddea" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.32774983723958); (3.5 : 3.32774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqCatalogDataContext/Outlet/Outlet_Branch" />
+      <nodes>
+        <classShapeMoniker Id="19c30dae-4149-44f4-af23-cc1b9bd206ee" />
+        <classShapeMoniker Id="11784333-15f6-4770-bb6d-5517f35a950f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.40549967447917); (3.125 : 4.78049967447917); (3.125 : 5.30930826822917); (5.875 : 5.30930826822917); (6.25 : 4.93430826822917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/LinqCatalogDataContext/Outlet/Outlet_Deal" />
+      <nodes>
+        <classShapeMoniker Id="19c30dae-4149-44f4-af23-cc1b9bd206ee" />
+        <classShapeMoniker Id="772304ce-cb4a-4db0-bfcd-9ec79333d57c" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

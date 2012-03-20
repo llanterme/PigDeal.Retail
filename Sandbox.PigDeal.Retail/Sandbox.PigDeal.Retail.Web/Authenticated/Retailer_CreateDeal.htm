@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Create Deal</title>
+<script src="../Scripts/pigdeal.core.js" type="text/javascript"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="CreateDealContentWrapper">
+        <fieldset>
+            <legend><b><font color="#e10787">New Deal</font></b></legend>
+            <div class="DealForm">
+                <table>
+                    <tr>
+                        <td>
+                            <label>
+                                Outlet Name:
+                            </label>
+                        </td>
+                        <td>
+                            <input type="text" name="RetailsName" value="Toys R' Us" readonly="readonly" /><sup> pulled from the login</sup>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <label>
+                                Address Book:
+                            </label>
+                        </td>
+                        <td>
+                            <select name="DealAddress">
+                                
+                                <option></option>
+                                <option>Waterfront</option>
+                                <option>Canal Walk</option>
+                                <option>Long Street</option>
+                            </select> <sup>if they have multiple addresses</sup>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <label>
+                                Deal Date:
+                            </label>
+                        </td>
+                        <td>
+                            <input type="text" id="datepicker"  /> <sup>within the calender month - calender control</sup>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <label>
+                                Deal Start Time:
+                            </label>
+                        </td>
+                        <td>
+                            <input type="text" name="DealDurationStart" /> <sup>max 24 hours</sup>
+                        </td>
+                    </tr>
+
+                      <tr>
+                        <td>
+                            <label>
+                              Deal End Time:
+                            </label>
+                        </td>
+                        <td>
+                            <input type="text" name="DealDurationEnd" /> 
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <label>
+                                Target Range:
+                            </label>
+                        </td>
+                        <td>
+                            <select name="DealRange">
+                                
+                                <option></option>
+                                <option>2km</option>
+                                <option>5km</option>
+                                <option>10km</option>
+                                <option>20km</option>
+                                <option>City</option>
+                            </select>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <label>
+                                Details:
+                            </label>
+                        </td>
+                        <td>
+                            <textarea cols="42" rows="10" name="DealDetails"></textarea><sup> explain what the deal is all about</sup>
+                        </td>
+                    </tr>
+                </table>
+                <input type="button" value="Next" /> <sup>onto payment screen</sup>
+            </div>
+        </fieldset>
+    </div>
+    </form>
+</body>
+</html>

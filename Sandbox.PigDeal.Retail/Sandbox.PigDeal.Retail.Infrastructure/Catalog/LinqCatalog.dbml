@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PigDeal" Class="LinqCatalogDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=tec-llanterme\sqlexpress;Initial Catalog=PigDeal;Persist Security Info=True;User ID=sa" SettingsObjectName="Sandbox.PigDeal.Retail.Infrastructure.Properties.Settings" SettingsPropertyName="PigDealConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Branches" Member="Branches">
+    <Type Name="Branch">
+      <Column Name="Name" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Address1" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Address2" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="PostCode" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(600) NOT NULL" CanBeNull="false" />
+      <Column Name="OperatingHours" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Telephone" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="Latitude" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Longitude" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="BranchId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OutletId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Branch_Deal" Member="Deals" ThisKey="BranchId" OtherKey="BranchId" Type="Deal" />
+      <Association Name="Outlet_Branch" Member="Outlet" ThisKey="OutletId" OtherKey="OutletId" Type="Outlet" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Deals" Member="Deals">
+    <Type Name="Deal">
+      <Column Name="OutletId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DealId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BranchId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(400) NOT NULL" CanBeNull="false" />
+      <Column Name="Claimed" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Scoop" Type="System.String" DbType="VarChar(5000) NOT NULL" CanBeNull="false" />
+      <Column Name="Discount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Created" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="StartDate" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="StartTime" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Duration" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Payment" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Deal_Coupon" Member="Coupons" ThisKey="DealId" OtherKey="DealId" Type="Coupon" />
+      <Association Name="Deal_Invoice" Member="Invoices" ThisKey="DealId" OtherKey="DealId" Type="Invoice" />
+      <Association Name="Branch_Deal" Member="Branch" ThisKey="BranchId" OtherKey="BranchId" Type="Branch" IsForeignKey="true" />
+      <Association Name="Outlet_Deal" Member="Outlet" ThisKey="OutletId" OtherKey="OutletId" Type="Outlet" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Coupons" Member="Coupons">
+    <Type Name="Coupon">
+      <Column Name="DealId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DeviceIdentifier" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="CouponId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserReference" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Deal_Coupon" Member="Deal" ThisKey="DealId" OtherKey="DealId" Type="Deal" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Invoices" Member="Invoices">
+    <Type Name="Invoice">
+      <Column Name="InvoiceId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DealId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OutletId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DatePaid" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Amount" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="InvoiceNumber" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Furfilled" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Deal_Invoice" Member="Deal" ThisKey="DealId" OtherKey="DealId" Type="Deal" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Outlets" Member="Outlets">
+    <Type Name="Outlet">
+      <Column Name="OutletName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(600) NOT NULL" CanBeNull="false" />
+      <Column Name="LoginEmail" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactNumber" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactPerson" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="OutletId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="Outlet_Branch" Member="Branches" ThisKey="OutletId" OtherKey="OutletId" Type="Branch" />
+      <Association Name="Outlet_Deal" Member="Deals" ThisKey="OutletId" OtherKey="OutletId" Type="Deal" />
+    </Type>
+  </Table>
+</Database>

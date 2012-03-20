@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PigDeal.Master.cs" Inherits="WebApplication1.SiteMaster" %>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>:. PigDeal :.</title>
+    <link href="~/Styles/pigdeal.retail.core.css" rel="stylesheet" type="text/css" />
+
+    <script src="Scripts/Json2.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    <form runat="server">
+       <ajaxToolkit:ToolkitScriptManager runat="server">
+     <Scripts>
+    <asp:ScriptReference Path="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js" />
+      <asp:ScriptReference Path="~/Scripts/blockUI.js" />
+      <asp:ScriptReference Path="~/Scripts/Default.js" />
+      </Scripts>
+      
+    </ajaxToolkit:ToolkitScriptManager>
+
+
+    <div class="page">
+        <div class="header">
+            <div class="title">
+            </div>
+            <div class="loginDisplay">
+                <img id="Image1" src="http://pigdeal.fusiondev.co.za/images/Pig%20Deal%20Logo.png" />
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                    IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login" />
+                        <asp:MenuItem NavigateUrl="~/MyAccount.aspx" Text="My Account" />
+                        <asp:MenuItem NavigateUrl="~/NewDeal.aspx" Text="Create Deal" />
+                        <asp:MenuItem NavigateUrl="~/ActiveDeals.aspx" Text="Active Deals" />
+                        <asp:MenuItem NavigateUrl="~/Validate.aspx" Text="Validate Deal" />
+                        <asp:MenuItem NavigateUrl="~/DealHistory.aspx" Text="Deal History" />
+                        <asp:MenuItem NavigateUrl="~/InvoiceHistory.aspx" Text="Invoice History" />
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+    </div>
+    </form>
+</body>
+</html>

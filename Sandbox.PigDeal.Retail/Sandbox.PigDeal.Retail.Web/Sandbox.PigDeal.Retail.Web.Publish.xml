@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\inetpub\wwwroot\Temp" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Web.dll" publishTime="03/20/2012 16:50:35" />
+    <file relUrl="images/back.png" publishTime="03/20/2012 08:49:40" />
+    <file relUrl="NewDeal.aspx" publishTime="03/20/2012 16:07:54" />
+    <file relUrl="Global.asax" publishTime="02/17/2012 05:53:57" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Web.pdb" publishTime="03/20/2012 16:50:35" />
+    <file relUrl="bin/log4net.dll" publishTime="06/01/2011 05:37:54" />
+    <file relUrl="Web.config" publishTime="03/20/2012 16:50:42" />
+    <file relUrl="InvoiceHistory.aspx" publishTime="03/20/2012 16:48:28" />
+    <file relUrl="Scripts/pigdeal.core.js" publishTime="02/20/2012 09:57:47" />
+    <file relUrl="Scripts/Json2.js" publishTime="02/17/2012 07:29:19" />
+    <file relUrl="Styles/Invoice.css" publishTime="03/20/2012 12:25:58" />
+    <file relUrl="TermsAndConditions.aspx" publishTime="03/20/2012 07:35:55" />
+    <file relUrl="images/view.gif" publishTime="03/13/2012 06:25:09" />
+    <file relUrl="images/progress-indicator.gif" publishTime="02/17/2012 08:57:06" />
+    <file relUrl="bin/System.Web.Ajax.dll" publishTime="03/24/2010 05:53:59" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Infrastructure.pdb" publishTime="03/20/2012 16:50:33" />
+    <file relUrl="Scripts/blockUI.js" publishTime="02/27/2012 12:48:42" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/17/2012 05:53:57" />
+    <file relUrl="PigDeal.Master" publishTime="03/20/2012 16:13:12" />
+    <file relUrl="DealHistory.aspx" publishTime="03/20/2012 16:43:56" />
+    <file relUrl="ProcessPayment.aspx" publishTime="03/16/2012 11:16:40" />
+    <file relUrl="Scripts/Default.js" publishTime="02/22/2012 13:14:31" />
+    <file relUrl="Validate.aspx" publishTime="03/20/2012 14:26:43" />
+    <file relUrl="images/tick.png" publishTime="03/13/2012 05:55:11" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/17/2012 05:53:56" />
+    <file relUrl="Ajax/AjaxService.svc" publishTime="02/17/2012 06:30:09" />
+    <file relUrl="MyAccount.aspx" publishTime="03/20/2012 12:51:19" />
+    <file relUrl="ActiveDeals.aspx" publishTime="03/20/2012 16:45:04" />
+    <file relUrl="CancelOrder.aspx" publishTime="03/19/2012 11:24:43" />
+    <file relUrl="Styles/pigdeal.retail.core.css" publishTime="03/20/2012 14:13:14" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Infrastructure.dll" publishTime="03/20/2012 16:50:34" />
+    <file relUrl="bin/Mweb.Foundation.Practices.dll" publishTime="06/01/2011 05:37:54" />
+    <file relUrl="images/cross.png" publishTime="03/13/2012 05:55:53" />
+    <file relUrl="bin/Mweb.Foundation.Practices.pdb" publishTime="06/01/2011 05:37:54" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Domain.pdb" publishTime="03/20/2012 16:50:34" />
+    <file relUrl="images/face.png" publishTime="03/19/2012 11:23:56" />
+    <file relUrl="bin/TimePicker.dll" publishTime="05/24/2010 14:37:16" />
+    <file relUrl="bin/Sandbox.PigDeal.Retail.Domain.dll" publishTime="03/20/2012 16:50:34" />
+    <file relUrl="Invoice.aspx" publishTime="03/20/2012 08:37:51" />
+    <file relUrl="ConfirmPayment.aspx" publishTime="03/20/2012 14:11:07" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="03/24/2010 05:53:59" />
+    <file relUrl="Login.aspx" publishTime="03/20/2012 14:13:58" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/17/2012 05:53:56" />
+  </publishProfile>
+</publishData>

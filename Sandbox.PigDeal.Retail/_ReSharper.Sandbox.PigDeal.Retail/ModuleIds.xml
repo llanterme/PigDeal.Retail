@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="A12D6D52-C7B2-46F0-AA45-D2820339D682" ModuleId="Sandbox.PigDeal.Retail.Web" />
+  <Module PersistentId="76C31769-CDDC-4952-9CFF-84520B86E792" ModuleId="Sandbox.PigDeal.Retail.Infrastructure" />
+  <Module PersistentId="BB40036A-3F32-4727-8EC8-AF7B8841A61F" ModuleId="Sandbox.PigDeal.Retail.Domain" />
+  <Module PersistentId="478832E8-4F73-499A-9779-5299E8726EA2" ModuleId="Sandbox.PigDeal.Retail.Debug" />
+  <Module PersistentId="B5EFFB67-D919-4132-94AE-72335D961E74" ModuleId="Sandbox.PigDeal.Retail.Service" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="mscorlib" />
+  <Module PersistentId="73C0A4B2-F9CC-40DF-8E1D-0DBAEA57E73E" ModuleId="Sandbox.PigDeal.Retail.Console" />
+</Modules>
